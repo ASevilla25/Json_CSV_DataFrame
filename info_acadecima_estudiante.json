@@ -1,0 +1,6 @@
+{	"id_alumno" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+	"nombre_alumno" : ["Alfonso", "Carmen", "Carlos", "Karen", "Maria", "Choco", "Bad", "Leonel", "Salvador", "Cristiano", "Neymar", "Karol", "Bill", "Xiomara", "Ronaldinho", "Noel", "Chelato", "Don", "Snoop", "Dua"],
+	"nom_materia" : ["programacion", "administracion", "publicidad", "biologia", "español", "sociologia", "musica-1", "futbol sala", "dibujo", "algoritmos", "ingles", "musica-1", "programacion", "cirugia", "baloncesto", "administracion", "baloncesto", "guitarra", "gestion", "finanzas"],
+	"nota_final" : [90, 56, 70, 46, 87, 78, 14, 77, 74, 87, 85, 35, 67, 65, 64, 92, 69, 73, 74, 67]
+}
+

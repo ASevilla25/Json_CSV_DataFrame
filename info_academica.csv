@@ -1,0 +1,21 @@
+﻿id_alumno,nombre_alumno,apellido_alumno,carrera,facultad,id_materia,nom_materia,id_profesor,nom_profesor,periodo,año
+1,Alfonso,Sevilla,Ing. en sistemas,Ingenieria,is-1,programacion,p-1,Radamel,1,2022
+2,Carmen,Zepeda,Economia,Economia,e-1,administracion,p-2,Matusalen,1,2022
+3,Carlos,Sevilla,Ecoturismo,Ecoturismo,ec-1,publicidad,p-3,Jeremias,3,2021
+4,Karen,Cruz,Medicina,Medicina,m-1,biologia,p-4,Alison,3,2021
+5,Maria,Ortiz,Letras,Social,l-1,español,p-5,Mercedes,2,2022
+6,Choco,Lozano,Trabajo social,Social,t-1,sociologia,p-6,Maria,2,2021
+7,Bad,Bunny,Musica,Arte,a-1,musica-1,p-7,Daddy Yankke,3,2022
+8,Leonel,Messi,Educ. Fisica,Social,ef-1,futbol sala,p-8,Maradona,3,2021
+9,Salvador,Nasralla,Ing. Civil,Ingenieria,ic-1,dibujo,p-9,Mel,2,2021
+10,Cristiano,Ronaldo,Ing. en sistemas,Ingenieria,is-2,algoritmos,p-1,Radamel,1,2021
+11,Neymar,Jr,Ecoturismo,Ecoturismo,ec-2,ingles,p-3,Jeremias,1,2022
+12,Karol,G,Musica,Arte,a-1,musica-1,p-10,Ivy Queen,2,2022
+13,Bill,Gates,Ing. en sistemas,Ingenieria,is-1,programacion,p-11,Anuel,3,2022
+14,Xiomara,Castro,Medicina,Medicina,m-2,cirugia,p-4,Alison,2,2021
+15,Ronaldinho,Gaucho,Educ. Fisica,Social,ef-2,baloncesto,p-12,Michael Jordan,2,2022
+16,Noel,Valladares,Economia,Economia,e-1,administracion,p-2,Matusalen,1,2021
+17,Chelato,Ucles,Educ. Fisica,Social,ef-2,baloncesto,p-12,Michael Jordan,2,2022
+18,Don,Omar,Musica,Arte,a-2,guitarra,p-7,Daddy Yankke,2,2022
+19,Snoop,Dogg,Ecoturismo,Ecoturismo,ec-3,gestion,p-3,Jeremias,3,2021
+20,Dua,Lipa,Trabajo social,Social,t-2,finanzas,p-6,Maria,3,2021
